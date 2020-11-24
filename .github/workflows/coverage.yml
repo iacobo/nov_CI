@@ -27,7 +27,7 @@ jobs:
 
       - name: Run coverage
         run: |
-          coverage run -m pytest
+          coverage run --branch -m pytest
 
       - name: Run codecov
         if: success()
