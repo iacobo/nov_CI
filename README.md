@@ -1,4 +1,4 @@
-![Windows, MacOS, Ubuntu](https://github.com/ja-ox/nov_CI/workflows/Windows,%20MacOS,%20Ubuntu/badge.svg) ![Python 3.6-3.9](https://github.com/ja-ox/nov_CI/workflows/Python%203.6-3.9/badge.svg) [![codecov](https://codecov.io/gh/ja-ox/nov_CI/branch/main/graph/badge.svg?token=RA8U8PZC56)](https://codecov.io/gh/ja-ox/nov_CI)
+![Windows, MacOS, Ubuntu](https://github.com/ja-ox/nov_CI/workflows/Windows,%20MacOS,%20Ubuntu/badge.svg) ![Python 3.6-3.9](https://github.com/ja-ox/nov_CI/workflows/Python%203.6-3.9/badge.svg) [![codecov](https://codecov.io/gh/ja-ox/nov_CI/branch/main/graph/badge.svg?token=RA8U8PZC56)](https://codecov.io/gh/ja-ox/nov_CI) [![BCH compliance](https://bettercodehub.com/edge/badge/ja-ox/nov_CI?branch=main)](https://bettercodehub.com/)
 
 # OxRSE Continuous Integration course
 
