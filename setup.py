@@ -10,7 +10,7 @@ setup(
 
     extras_require={
         'docs': ['sphinx'],
-        'dev': ['flake8', 'pytest',],
+        'dev': ['flake8', 'pytest'],
     },
     
     zip_safe=False
