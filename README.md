@@ -1,3 +1,7 @@
+![Windows, MacOS, Ubuntu](https://github.com/ja-ox/nov_CI/workflows/Windows,%20MacOS,%20Ubuntu/badge.svg)
+
+![Python 3.6-3.9](https://github.com/ja-ox/nov_CI/workflows/Python%203.6-3.9/badge.svg)
+
 # OxRSE Continuous Integration course
 
 This project contains a small Python project. We are going to use free cloud services to automate:
