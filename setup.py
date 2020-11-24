@@ -12,6 +12,6 @@ setup(
         'docs': ['sphinx'],
         'dev': ['flake8', 'pytest'],
     },
-    
+
     zip_safe=False
 )
